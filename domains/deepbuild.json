@@ -4,6 +4,10 @@
     "email": "engineeringkitshelp@gmail.com"
   },
   "records": {
-    "CNAME": "deepbuildengineering.pages.dev"
+    "CNAME": "deepbuildengineering.pages.dev",
+    "MX": [
+      { "priority": 10, "value": "mx1.improvmx.com" },
+      { "priority": 20, "value": "mx2.improvmx.com" }
+    ]
   }
 }
